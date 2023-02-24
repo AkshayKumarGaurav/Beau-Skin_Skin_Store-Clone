@@ -34,9 +34,9 @@ function Fnnavbar(){
 </Menu>
          */}
                 <Box > <Image width='200px' height='100px' src={logoU} alt="Logo" /></Box>
-                <Box><Input width='500px' height='50px'  variant=' Filled' /><SearchIcon ml={5}/></Box>
-                <Flex gap={3} alignItems={"center"}><BsFillPersonFill/><Text> Account</Text></Flex>
-                <Flex gap={3} alignItems={"center"}><BsFillBasket3Fill/><Text> Cart</Text></Flex>
+                <Box><Input width='500px' height='50px'  variant=' Filled' /><SearchIcon ml={5} /></Box>
+                <Flex gap={3} alignItems={"center"}><BsFillPersonFill size={"25px"}/><Text fontSize='lg'> Account</Text></Flex>
+                <Flex gap={3} alignItems={"center"}><BsFillBasket3Fill size={"25px"}/><Text fontSize='lg'> Cart</Text></Flex>
                 
           
             </Flex>
