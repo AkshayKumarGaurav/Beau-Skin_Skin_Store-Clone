@@ -1,0 +1,7 @@
+http://localhost:8080/vitaminC
+
+###
+http://localhost:8080/mosturizer
+
+###
+http://localhost:8080/LipCare

@@ -1,4 +1,5 @@
 // import { useDisclosure } from "@chakra-ui/react"
+import {Link as RouterLink} from 'react-router-dom'
 import {
     useColorModeValue,
         useDisclosure,
@@ -8,7 +9,7 @@ import {
         MenuList,
     } from "@chakra-ui/react"
     import { ChevronDownIcon, ChevronUpIcon } from '@chakra-ui/icons'
-function Banner({main,item1,item2,item3,item4,item5}){
+function Banner({main,item1,item2,item3,item4,item5,fn1}){
     const { isOpen, onOpen, onClose } = useDisclosure();
     
 
@@ -41,7 +42,8 @@ function Banner({main,item1,item2,item3,item4,item5}){
                 <MenuItem>{item2}</MenuItem>
                 <MenuItem>{item3}</MenuItem>
                 <MenuItem>{item4}</MenuItem>
-                <MenuItem>{item5}</MenuItem>
+                <RouterLink to={fn1}><MenuItem>{item5}</MenuItem></RouterLink>
+                
             </MenuList>
         </Menu>
        
