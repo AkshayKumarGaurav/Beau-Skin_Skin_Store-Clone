@@ -21,6 +21,7 @@ import {
     AlertDescription
 
   } from '@chakra-ui/react';
+  import {Link as RouterLink} from 'react-router-dom';
 
   export default function Alertfn(){
     return(
@@ -40,6 +41,7 @@ import {
         <AlertDescription maxWidth='sm'>
           Thanks for shopping from  BEAU SKIN. We will deliver your product ASAP.
         </AlertDescription>
+        <RouterLink to="/"><Button>Shop More</Button></RouterLink>
       </Alert>
       )
 
