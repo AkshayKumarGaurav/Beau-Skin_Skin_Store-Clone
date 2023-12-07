@@ -13,3 +13,7 @@ In this project we have used the following technologies:
 
 
 # Netlify Deploy link:-  [https://stellar-melomakarona-cbaa46.netlify.app/]
+
+# Home Page
+
+https://github.com/AkshayKumarGaurav/Form_validation/blob/master/assets/Beau.png?raw=true
