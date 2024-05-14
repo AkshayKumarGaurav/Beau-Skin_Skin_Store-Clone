@@ -17,3 +17,21 @@ In this project we have used the following technologies:
 # Home Page 🏠
 
 <img src="https://github.com/AkshayKumarGaurav/Form_validation/blob/master/assets/Beau.png?raw=true"/>
+
+# Product Page
+
+<img src="https://github.com/AkshayKumarGaurav/Beau-Skin_Skin_Store-Clone/blob/main/my-app/src/Images/ProductPage.png"/>
+
+<img src="https://github.com/AkshayKumarGaurav/Beau-Skin_Skin_Store-Clone/blob/main/my-app/src/Images/SinglePage2.png"/>
+
+# Single Item Page
+
+<img src="https://github.com/AkshayKumarGaurav/Beau-Skin_Skin_Store-Clone/blob/main/my-app/src/Images/SinlgePage.png"/>
+
+# Add To Cart Page 🏠
+
+<img src="https://github.com/AkshayKumarGaurav/Beau-Skin_Skin_Store-Clone/blob/main/my-app/src/Images/CartPage.png"/>
+
+# Checkout Page(Payment Page) 🏠
+
+<img src="https://github.com/AkshayKumarGaurav/Beau-Skin_Skin_Store-Clone/blob/main/my-app/src/Images/PaymentPage.png"/>
